@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zhang/OneDrive/Documents/Unreal Projects/Warehouse_Wreckage_UE5/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset"
+			]
+		}
+	]
+}
